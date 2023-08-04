@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background:url('back.jpeg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header{
+    background-color: gray;
+    height: 100px;
+    padding: 30px;
+    
+}
+h1{
+    color: white;
+}
+h2{
+    color: black;
+}
+ul li {
+    display: inline;
+    color: black;
+    padding: 30px;
+    
+}
+ul li a{
+    color:goldenrod;
+}
+#home img
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+#portfolio{
+    background-color: skyblue;
+    height: 200px;
+}
+footer{
+    background-color: black;
+    height: 30px;
+}
+footer p{
+    color: antiquewhite;
+}
